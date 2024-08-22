@@ -338,7 +338,7 @@
 #article .middleSection .wrapper .middleItems {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
+  gap: 15px;
   height: 100%;
 }
 #article .middleSection .wrapper .middleItems .item {
@@ -427,6 +427,7 @@
     height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
+    padding: 15px;
   }
   #article .middleSection .wrapper {
     width: 80%;
